@@ -9,14 +9,14 @@ body {
   align-items: center;
   justify-content: center;
 
-  background-size:100%;
-  background-image: url("https://i.pinimg.com/736x/9b/04/23/9b042324ee070093b038a7acd80340ea.jpg");
+  background-size:200%;
+  background-image: url("https://p16-va.lemon8cdn.com/tos-alisg-v-a3e477-sg/okRmDf4D9ECQIERzfAlgFCYaEatkEAaDCBMACp~tplv-tej9nj120t-origin.webp");
   background-position: center;
 }
 
 .paper {
-background-color:plum;
-  background-size: 300px;
+  background-image: url("https://files.oaiusercontent.com/file-F2RP8ASMWEZjLf5Uik2hrq?se=2025-03-11T09%3A18%3A02Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=JP5snDAcF5AKU4xY0VUlUhKKQ98xFSRY/w5eRLLIAhc%3D");
+  background-size: 500px;
   background-position: center center;
   padding: 20px 100px;
 /*  min-width: 800px; */
